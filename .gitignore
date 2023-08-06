@@ -1,6 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/java,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,visualstudiocode
-
 ### Java ###
 # Compiled class file
 *.class
@@ -46,4 +43,4 @@ replay_pid*
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/java,visualstudiocode
+# End of https://www.toptal.com/developer
