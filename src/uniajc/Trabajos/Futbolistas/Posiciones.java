@@ -1,4 +1,4 @@
-package Trabajos.Futbolistas;
+package uniajc.Trabajos.Futbolistas;
 
 public enum Posiciones {
 

@@ -1,4 +1,4 @@
-package Ejercicios.NumerosPrimos;
+package uniajc.Ejercicios.NumerosPrimos;
 
 import java.util.Scanner;
 

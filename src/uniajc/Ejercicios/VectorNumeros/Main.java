@@ -1,4 +1,4 @@
-package Ejercicios.VectorNumeros;
+package uniajc.Ejercicios.VectorNumeros;
 
 public class Main {
 

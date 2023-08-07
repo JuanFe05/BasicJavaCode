@@ -1,4 +1,4 @@
-package Ejercicios.EdadPersona;
+package uniajc.Ejercicios.EdadPersona;
 
 import javax.swing.*;
 

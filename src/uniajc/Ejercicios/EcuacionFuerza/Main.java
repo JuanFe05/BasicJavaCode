@@ -1,4 +1,4 @@
-package Ejercicios.EcuacionFuerza;
+package uniajc.Ejercicios.EcuacionFuerza;
 
 public class Main {
 

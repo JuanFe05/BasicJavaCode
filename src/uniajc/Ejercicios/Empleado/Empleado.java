@@ -1,4 +1,4 @@
-package Ejercicios.Empleado;
+package uniajc.Ejercicios.Empleado;
 
 import java.time.YearMonth;
 import java.util.Scanner;

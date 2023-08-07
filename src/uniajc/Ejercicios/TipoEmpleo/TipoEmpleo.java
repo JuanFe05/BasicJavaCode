@@ -1,4 +1,4 @@
-package Ejercicios.TipoEmpleo;
+package uniajc.Ejercicios.TipoEmpleo;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

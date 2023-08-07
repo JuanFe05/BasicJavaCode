@@ -1,4 +1,4 @@
-package EstructuraDatos.ListasEnlazadas;
+package uniajc.EstructuraDatos.ListasEnlazadas;
 
 public class Libro {
 

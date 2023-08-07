@@ -1,4 +1,4 @@
-package Ejercicios.Temperatura;
+package uniajc.Ejercicios.Temperatura;
 
 import java.util.Scanner;
 

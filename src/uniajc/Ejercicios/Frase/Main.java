@@ -1,4 +1,4 @@
-package Ejercicios.Frase;
+package uniajc.Ejercicios.Frase;
 
 public class Main {
 

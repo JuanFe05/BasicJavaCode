@@ -1,4 +1,4 @@
-package Ejercicios.Empleado;
+package uniajc.Ejercicios.Empleado;
 
 public class Main {
 

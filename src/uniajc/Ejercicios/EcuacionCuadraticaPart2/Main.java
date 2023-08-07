@@ -1,4 +1,4 @@
-package Ejercicios.EcuacionCuadraticaPart2;
+package uniajc.Ejercicios.EcuacionCuadraticaPart2;
 
 public class Main {
 

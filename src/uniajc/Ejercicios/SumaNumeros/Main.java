@@ -1,4 +1,4 @@
-package Ejercicios.SumaNumeros;
+package uniajc.Ejercicios.SumaNumeros;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package Trabajos.Futbolistas;
+package uniajc.Trabajos.Futbolistas;
 
 import java.util.ArrayList;
 import java.util.Scanner;

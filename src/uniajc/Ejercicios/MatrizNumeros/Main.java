@@ -1,4 +1,4 @@
-package Ejercicios.MatrizNumeros;
+package uniajc.Ejercicios.MatrizNumeros;
 
 public class Main {
 

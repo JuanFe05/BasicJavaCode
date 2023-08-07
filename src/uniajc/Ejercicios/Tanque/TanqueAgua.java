@@ -1,4 +1,4 @@
-package Ejercicios.Tanque;
+package uniajc.Ejercicios.Tanque;
 
 import java.util.Scanner;
 

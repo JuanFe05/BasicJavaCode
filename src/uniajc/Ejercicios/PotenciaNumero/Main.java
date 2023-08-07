@@ -1,4 +1,4 @@
-package Ejercicios.PotenciaNumero;
+package uniajc.Ejercicios.PotenciaNumero;
 
 import java.util.Scanner;
 

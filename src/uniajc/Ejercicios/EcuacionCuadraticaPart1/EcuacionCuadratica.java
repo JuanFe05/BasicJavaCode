@@ -1,4 +1,4 @@
-package Ejercicios.EcuacionCuadraticaPart1;
+package uniajc.Ejercicios.EcuacionCuadraticaPart1;
 
 import java.util.Scanner;
 

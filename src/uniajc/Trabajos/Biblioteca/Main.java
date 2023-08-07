@@ -1,4 +1,4 @@
-package Trabajos.Biblioteca;
+package uniajc.Trabajos.Biblioteca;
 
 public class Main {
 

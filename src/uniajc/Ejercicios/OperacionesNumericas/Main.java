@@ -1,4 +1,4 @@
-package Ejercicios.OperacionesNumericas;
+package uniajc.Ejercicios.OperacionesNumericas;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

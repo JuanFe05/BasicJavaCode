@@ -1,4 +1,4 @@
-package Ejercicios.PotenciaNumero;
+package uniajc.Ejercicios.PotenciaNumero;
 
 public class Potencia {
 

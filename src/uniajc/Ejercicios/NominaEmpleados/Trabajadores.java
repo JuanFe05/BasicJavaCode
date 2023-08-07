@@ -1,4 +1,4 @@
-package Ejercicios.NominaEmpleados;
+package uniajc.Ejercicios.NominaEmpleados;
 
 import java.util.ArrayList;
 

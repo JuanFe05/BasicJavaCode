@@ -1,4 +1,4 @@
-package Ejercicios.SalarioEmpleado;
+package uniajc.Ejercicios.SalarioEmpleado;
 
 public class Empleado {
 

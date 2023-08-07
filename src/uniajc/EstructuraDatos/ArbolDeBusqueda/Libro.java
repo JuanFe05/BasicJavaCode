@@ -1,4 +1,4 @@
-package EstructuraDatos.ArbolDeBusqueda;
+package uniajc.EstructuraDatos.ArbolDeBusqueda;
 
 public class Libro implements Comparable<Libro> {
 

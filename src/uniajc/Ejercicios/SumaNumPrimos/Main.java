@@ -1,4 +1,4 @@
-package Ejercicios.SumaNumPrimos;
+package uniajc.Ejercicios.SumaNumPrimos;
 
 import java.util.Scanner;
 

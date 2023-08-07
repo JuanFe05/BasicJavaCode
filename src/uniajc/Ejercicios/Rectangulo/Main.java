@@ -1,4 +1,4 @@
-package Ejercicios.Rectangulo;
+package uniajc.Ejercicios.Rectangulo;
 
 public class Main {
 

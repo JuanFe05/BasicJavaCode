@@ -1,4 +1,4 @@
-package EstructuraDatos.ArbolDeBusqueda;
+package uniajc.EstructuraDatos.ArbolDeBusqueda;
 
 public interface BST <T extends Comparable> {
 
