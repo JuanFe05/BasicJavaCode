@@ -1,4 +1,4 @@
-package Ejercicios.Cuadrado;
+package uniajc.Ejercicios.Cuadrado;
 
 import java.util.Scanner;
 
